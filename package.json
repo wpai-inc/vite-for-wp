@@ -1,5 +1,5 @@
 {
-	"name": "@kucrut/vite-for-wp",
+	"name": "@wpai-inc/vite-for-wp",
 	"version": "0.8.0",
 	"description": "Vite integration for WordPress plugins and themes development.",
 	"author": "Dzikri Aziz",
